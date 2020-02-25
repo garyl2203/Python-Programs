@@ -4,7 +4,7 @@ Afternoon, let's dive into the world of Python programming.
 Here are some Programs I wrote, mostly as fun mini exercises but mostly to understand the basics of Python. In conjunction to the Introduction to Python Programming course at Udacity, I have also taken some time to write programs relating to mathematics.
 
 
-1. birthday_days.py - this program was written in 2.7, by inputting your birthday, it will return the number of days you have been alive! Useless(?) program, but a good, fun programming excercise for those who wish to start to learn Python.
+1. birthday_days.py - this program was written in 2.7, by inputting your birthday and the current date, it will return the number of days you have been alive! Useless(?) program, but a good, challenging excercise for those who wish to start to learn Python. Remember this program must also take into account the leap years due to February having an extra day every 4 years.
 
 2. maths.py - written in 2.7, this program finds the set of pythagorean triples.
 
